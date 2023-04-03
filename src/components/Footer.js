@@ -4,7 +4,7 @@ class Footer extends Component {
     render() {
         return (
             <footer className="footer">
-                ©2020 StarLink Tracker. All Rights Reserved. Website Made by Haoming Lei
+                ©2020 StarLink Tracker. All Rights Reserved. Website Made by Your name
             </footer>
         );
     }
